@@ -604,3 +604,11 @@ Setting his drink onto Larry's table, Micky looked in the llama's eyes.
  "I'm guessing neither package is very big."
  "Hardly anything at all. An envelope one way and a small parcel this way. Easy Peasy."
  Larry finished his drink. "Sure. I'll run your little job for you."
+ Micky handed an envelope to Larry who put it in his messenger bag. 
+ Larry asked Micky, "Where are you going to be later?"
+ "Right here watching the game."
+ "Fair enough, see you in a couple of hours."
+ Larry walked outside and looked at the address on the paper he had been handed.
+ "I can catch the train most the way there." and headed off to the platform.
+ ==
+ 
